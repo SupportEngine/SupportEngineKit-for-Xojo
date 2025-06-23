@@ -1,4 +1,4 @@
-# SupportEngineKit-for-Xojo
+# SupportEngineKit for Xojo
 Framework for Xojo developers - Integrate SupportEngine features in your apps.
 
 With the SupportEngineKit framework for Xojo, you can seamlessly integrate support ticket functionality into your Xojo apps. Users can create tickets and view responses directly within your applications.
